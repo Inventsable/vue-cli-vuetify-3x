@@ -1,5 +1,7 @@
 # bombino-vue-vuetify
 
+# DEPRECATED 5/6/2020. Use [bombino-vuetify](https://github.com/Inventsable/bombino-vue-vuetify) instead
+
 ## Template used in [bombino](https://github.com/Inventsable/bombino)
 
 ![](https://thumbs.gfycat.com/CreepyAgedCockatoo-size_restricted.gif)
